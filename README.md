@@ -1,16 +1,7 @@
-# courses
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![1](https://github.com/mido4315/Courses-app/assets/96996503/92db4580-ab51-40cc-a4b6-12d4b75d6a9a)
+![2](https://github.com/mido4315/Courses-app/assets/96996503/317f52bf-6df9-4283-98a3-c10b865c0e63)
+![3](https://github.com/mido4315/Courses-app/assets/96996503/0b299ace-cd76-41f6-90b1-45c2dd9c6975)
+![4](https://github.com/mido4315/Courses-app/assets/96996503/43f238b5-d5aa-417b-a77e-5aa8faf067ae)
+![5](https://github.com/mido4315/Courses-app/assets/96996503/eb8dbfd9-a0cd-4d02-9eab-dedfdddb80fa)
+![6](https://github.com/mido4315/Courses-app/assets/96996503/27b432e4-0d2b-44bd-88de-0ecc96613109)
+![7](https://github.com/mido4315/Courses-app/assets/96996503/5c19431b-d33a-4958-98ba-63be1fdc8924)
